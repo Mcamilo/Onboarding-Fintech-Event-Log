@@ -21,16 +21,15 @@ If you use this dataset in your research, please cite the following paper:
 BibTeX entry:
 
 ```bibtex
-@article{daSilva2023,
+@article{silva2023using,
   title={Using Process Mining to Reduce Fraud in Digital Onboarding},
-  author={da Silva, Matheus Camilo
-  and Tavares, Gabriel Marques 
-  and Gritti, Marcos Cesar 
-  and Ceravolo, Paolo 
-  and Barbon Junior, Sylvio},
-  journal={Fintech},
+  author={Silva, Matheus Camilo da and Tavares, Gabriel Marques and Gritti, Marcos Cesar and Ceravolo, Paolo and Barbon Junior, Sylvio},
+  journal={FinTech},
+  volume={2},
+  number={1},
+  pages={120--137},
   year={2023},
-  publisher={Multidisciplinary Digital Publishing Institute}
+  publisher={MDPI}
 }
 ```
 
